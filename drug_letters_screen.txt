@@ -1,0 +1,1018 @@
+004	DB00120	Phenylalanine	
+00S	DB06795	Mafenide	
+01H	DB01275	Hydralazine	
+01V	DB13269	Dichlorobenzyl alcohol	
+02Q	DB01009	Ketoprofen	
+02S	DB00945	Acetylsalicylic acid	
+032	DB08881	Vemurafenib	
+06C	DB13813	Iodoform	
+06Y	DB06819	Phenylbutyric acid	
+07J	DB11886	Infigratinib	
+07L	DB07776	Flavone	
+0A7	DB00945	Acetylsalicylic acid	
+0CC	DB05382	Iodine	
+0CL	DB00556	Perflutren	
+0LA	DB00821	Carprofen	
+0LI	DB08901	Ponatinib	
+0OB	DB01600	Tiaprofenic acid	
+0OL	DB11584	Pipradrol	
+0OO	DB13269	Dichlorobenzyl alcohol	
+0P6	DB09115	Diiodohydroxyquinoline	
+0QZ	DB05382	Iodine	
+0UE	DB05382	Iodine	
+0UT	DB13218	Mandelic acid	
+0WV	DB14188	Isoeugenol	
+0XM	DB14191	Diphenylguanidine	
+0YE	DB00991	Oxaprozin	
+0YF	DB00573	Fenoprofen	
+10A	DB04221	Didecyldimethylammonium	
+115	DB01095	Fluvastatin	
+11A	DB03017	Lauric acid	
+14F	DB00233	Aminosalicylic acid	
+14O	DB11092	Stannous fluoride	
+14Z	DB01325	Quinethazone	
+15M	DB00905	Bimatoprost	
+15O	DB09316	Thallous chloride	
+1AN	DB11092	Stannous fluoride	
+1C9	DB11963	Dacomitinib	
+1CW	DB00233	Aminosalicylic acid	
+1CY	DB14763	Cycloguanil	
+1DB	DB03017	Lauric acid	
+1E8	DB09053	Ibrutinib	
+1FL	DB00861	Diflunisal	
+1G2	DB00120	Phenylalanine	
+1KX	DB01048	Abacavir	
+1LD	DB11092	Stannous fluoride	
+1LR	DB00233	Aminosalicylic acid	
+1LT	DB12015	Alpelisib	
+1N1	DB01254	Dasatinib	
+1PB	DB14191	Diphenylguanidine	
+1PQ	DB01087	Primaquine	
+1T1	DB00676	Benzyl benzoate	
+1V0	DB07776	Flavone	
+1V1	DB07776	Flavone	
+1V3	DB07776	Flavone	
+1V4	DB07776	Flavone	
+1XN	DB01123	Proflavine	
+205	DB11644	Tafamidis	
+20D	DB07776	Flavone	
+20J	DB01119	Diazoxide	
+23F	DB00120	Phenylalanine	
+24B	DB13269	Dichlorobenzyl alcohol	
+24W	DB00382	Tacrine	
+265	DB09353	Octasulfur	
+27K	DB14084	Butylparaben	
+27M	DB13269	Dichlorobenzyl alcohol	
+27O	DB00788	Naproxen	
+27R	DB00963	Bromfenac	
+28J	DB01169	Arsenic trioxide	
+29J	DB06700	Desvenlafaxine	
+2A7	DB11254	Hexylresorcinol	
+2A9	DB11299	Vanillyl butyl ether	
+2B0	DB00114	Pyridoxal phosphate	
+2BM	DB13813	Iodoform	
+2CK	DB00382	Tacrine	
+2G3	DB01043	Memantine	
+2H3	DB13178	Inositol	
+2HE	DB14078	Medronic acid	
+2K4	DB09494	Cetyl alcohol	
+2KW	DB12301	Doravirine	
+2MM	DB11282	Diethyltoluamide	
+2ND	DB05382	Iodine	
+2O6	DB00740	Riluzole	
+2R5	DB12500	Fedratinib	
+2RA	DB00915	Amantadine	
+2TA	DB12500	Fedratinib	
+2U8	DB05382	Iodine	
+30Z	DB00179	Masoprocol	
+341	DB13269	Dichlorobenzyl alcohol	
+34A	DB14191	Diphenylguanidine	
+34D	DB13628	Ethyl hydroxybenzoate	
+34H	DB00135	Tyrosine	
+36M	DB14177	Propylparaben	
+38L	DB11254	Hexylresorcinol	
+3AL	DB11100	Allantoin	
+3AO	DB09352	Hydroxyamphetamine	
+3AQ	DB00316	Acetaminophen	
+3AV	DB07776	Flavone	
+3BH	DB00640	Adenosine	
+3BR	DB00556	Perflutren	
+3CE	DB11254	Hexylresorcinol	
+3CT	DB09316	Thallous chloride	
+3EW	DB11689	Selumetinib	
+3FA	DB11254	Hexylresorcinol	
+3FB	DB00120	Phenylalanine	
+3FG	DB01235	Levodopa	
+3GZ	DB00676	Benzyl benzoate	
+3H2	DB00676	Benzyl benzoate	
+3H7	DB11496	2-mercaptobenzothiazole	
+3HP	DB15480	Resorcinol monoacetate	
+3JD	DB11793	Niraparib	
+3LA	DB03017	Lauric acid	
+3LX	DB13813	Iodoform	
+3MI	DB11644	Tafamidis	
+3MY	DB09316	Thallous chloride	
+3N8	DB11254	Hexylresorcinol	
+3NK	DB00461	Nabumetone	
+3PO	DB13813	Iodoform	
+3QO	DB00600	Monobenzone	
+3SS	DB14089	Dimercaptosuccinic acid	
+3VW	DB11584	Pipradrol	
+3W6	DB00259	Sulfanilamide	
+3W8	DB00259	Sulfanilamide	
+3X1	DB04224	Oleic Acid	
+3Z7	DB01428	Oxybenzone	
+40S	DB11254	Hexylresorcinol	
+41X	DB00234	Reboxetine	
+42B	DB00233	Aminosalicylic acid	
+42J	DB13269	Dichlorobenzyl alcohol	
+431	DB07776	Flavone	
+43M	DB11121	Chloroxylenol	
+45C	DB11254	Hexylresorcinol	
+46W	DB00609	Ethionamide	
+47G	DB11299	Vanillyl butyl ether	
+48X	DB04160	Pyrophosphoric acid	
+4A3	DB00233	Aminosalicylic acid	
+4CL	DB11254	Hexylresorcinol	
+4CY	DB13813	Iodoform	
+4ER	DB00555	Lamotrigine	
+4FW	DB00556	Perflutren	
+4HC	DB07776	Flavone	
+4HP	DB15480	Resorcinol monoacetate	
+4HR	DB13269	Dichlorobenzyl alcohol	
+4J8	DB00259	Sulfanilamide	
+4JE	DB00259	Sulfanilamide	
+4JL	DB13269	Dichlorobenzyl alcohol	
+4JQ	DB07776	Flavone	
+4L8	DB00230	Pregabalin	
+4LE	DB00753	Isoflurane	
+4LW	DB00120	Phenylalanine	
+4MI	DB01032	Probenecid	
+4MK	DB09063	Ceritinib	
+4NS	DB15480	Resorcinol monoacetate	
+4NZ	DB00259	Sulfanilamide	
+4OX	DB00548	Azelaic acid	
+4PH	DB00830	Phenmetrazine	
+4SM	DB09353	Octasulfur	
+4TB	DB06819	Phenylbutyric acid	
+4TX	DB01241	Gemfibrozil	
+4WU	DB00382	Tacrine	
+4X6	DB04821	Nomifensine	
+4YH	DB00661	Verapamil	
+4Z9	DB00150	Tryptophan	
+4ZE	DB11121	Chloroxylenol	
+505	DB00379	Mexiletine	
+51S	DB14191	Diphenylguanidine	
+53C	DB00316	Acetaminophen	
+54O	DB00659	Acamprosate	
+56D	DB00120	Phenylalanine	
+56S	DB13966	Isopropyl myristate	
+57Q	DB00991	Oxaprozin	
+58X	DB14183	Geraniol	
+5AN	DB11092	Stannous fluoride	
+5E4	DB00784	Mefenamic acid	
+5FH	DB00252	Phenytoin	
+5H0	DB00343	Diltiazem	
+5I2	DB00915	Amantadine	
+5PP	DB13908	Amylmetacresol	
+5RD	DB06795	Mafenide	
+5RG	DB00233	Aminosalicylic acid	
+5RP	DB11348	Calcium Phosphate	
+5VL	DB00316	Acetaminophen	
+5WP	DB11348	Calcium Phosphate	
+5XA	DB00244	Mesalazine	
+62H	DB00120	Phenylalanine	
+650	DB09353	Octasulfur	
+657	DB00740	Riluzole	
+65B	DB06414	Etravirine	
+65D	DB14084	Butylparaben	
+68P	DB01175	Escitalopram	
+69Q	DB13874	Enasidenib	
+6B0	DB13269	Dichlorobenzyl alcohol	
+6E0	DB03193	Stearic acid	
+6GU	DB09316	Thallous chloride	
+6GY	DB12267	Brigatinib	
+6HQ	DB00252	Phenytoin	
+6JW	DB00237	Butabarbital	
+6KY	DB11142	Selenomethionine	
+6LB	DB00556	Perflutren	
+6LH	DB06795	Mafenide	
+6M1	DB00233	Aminosalicylic acid	
+6NA	DB03017	Lauric acid	
+6OT	DB01144	Diclofenamide	
+6PN	DB13908	Amylmetacresol	
+6SB	DB13813	Iodoform	
+6T0	DB00724	Imiquimod	
+6U9	DB05382	Iodine	
+6W2	DB06147	Sulfathiazole	
+6YP	DB00259	Sulfanilamide	
+6ZJ	DB14487	Zinc acetate	
+6ZP	DB08883	Perampanel	
+6ZV	DB12001	Abemaciclib	
+6ZZ	DB11730	Ribociclib	
+71K	DB11254	Hexylresorcinol	
+72Q	DB15463	Belzutifan	
+73F	DB14120	Phenylethyl resorcinol	
+787	DB14078	Medronic acid	
+78B	DB01086	Benzocaine	
+7DV	DB11254	Hexylresorcinol	
+7OQ	DB11217	Arbutin	
+7R3	DB09038	Empagliflozin	
+7RX	DB15536	Ferric chloride	
+7V7	DB00813	Fentanyl	
+7VD	DB04160	Pyrophosphoric acid	
+7XM	DB01123	Proflavine	
+81K	DB09494	Cetyl alcohol	
+81M	DB01032	Probenecid	
+82U	DB00887	Bumetanide	
+83V	DB00120	Phenylalanine	
+8A5	DB09185	Viloxazine	
+8EJ	DB00609	Ethionamide	
+8IG	DB05382	Iodine	
+8K6	DB09353	Octasulfur	
+8N6	DB01132	Pioglitazone	
+8PS	DB13908	Amylmetacresol	
+8RU	DB11254	Hexylresorcinol	
+8RY	DB00609	Ethionamide	
+8YH	DB00711	Diethylcarbamazine	
+94N	DB00818	Propofol	
+975	DB00988	Dopamine	
+9AY	DB11254	Hexylresorcinol	
+9CR	DB03193	Stearic acid	
+9EG	DB11155	Triclocarban	
+9JH	DB00676	Benzyl benzoate	
+9KS	DB00316	Acetaminophen	
+9OD	DB06689	Ethanolamine oleate	
+9RA	DB00307	Bexarotene	
+9TS	DB09555	Dexchlorpheniramine maleate	
+9UQ	DB00357	Aminoglutethimide	
+9UZ	DB01123	Proflavine	
+9X6	DB03017	Lauric acid	
+9X7	DB01086	Benzocaine	
+9XG	DB00830	Phenmetrazine	
+A09	DB00259	Sulfanilamide	
+A20	DB00659	Acamprosate	
+A26	DB08880	Teriflunomide	
+A2F	DB11092	Stannous fluoride	
+A4V	DB00676	Benzyl benzoate	
+A4Z	DB13346	Bufexamac	
+A64	DB07776	Flavone	
+A73	DB07776	Flavone	
+A7Q	DB11584	Pipradrol	
+A9L	DB05676	Apremilast	
+A9M	DB00316	Acetaminophen	
+AA4	DB00233	Aminosalicylic acid	
+ADM	DB05382	Iodine	
+ADO	DB00915	Amantadine	
+AEF	DB09352	Hydroxyamphetamine	
+AEG	DB09352	Hydroxyamphetamine	
+AHC	DB00233	Aminosalicylic acid	
+AI7	DB00945	Acetylsalicylic acid	
+AIN	DB00945	Acetylsalicylic acid	
+AMH	DB00302	Tranexamic acid	
+ANC	DB00915	Amantadine	
+AO	DB05382	Iodine	
+APD	DB00830	Phenmetrazine	
+ASW	DB00276	Amsacrine	
+ASY	DB04224	Oleic Acid	
+AT3	DB09353	Octasulfur	
+AUE	DB00384	Triamterene	
+AUG	DB00384	Triamterene	
+AUV	DB01399	Salsalate	
+AV9	DB05382	Iodine	
+AVP	DB11348	Calcium Phosphate	
+AWY	DB06594	Agomelatine	
+AY6	DB06155	Rimonabant	
+B09	DB00259	Sulfanilamide	
+B0I	DB12300	P-nitrobiphenyl	
+B0S	DB03017	Lauric acid	
+B3Y	DB00135	Tyrosine	
+B49	DB01268	Sunitinib	
+BC5	DB00259	Sulfanilamide	
+BDD	DB13813	Iodoform	
+BFZ	DB00690	Flurazepam	
+BHF	DB07776	Flavone	
+BHL	DB00632	Docosanol	
+BKN	DB01086	Benzocaine	
+BKZ	DB00316	Acetaminophen	
+BL1	DB00808	Indapamide	
+BNF	DB00676	Benzyl benzoate	
+BOM	DB09494	Cetyl alcohol	
+BP2	DB11348	Calcium Phosphate	
+BP7	DB14191	Diphenylguanidine	
+BPW	DB00856	Chlorphenesin	
+BRC	DB03017	Lauric acid	
+BRP	DB13960	Bronopol	
+BS4	DB09355	Sulfabenzamide	
+BT9	DB02266	Flufenamic acid	
+BX4	DB00259	Sulfanilamide	
+BYC	DB00676	Benzyl benzoate	
+BZI	DB00676	Benzyl benzoate	
+BZS	DB06819	Phenylbutyric acid	
+BZZ	DB00676	Benzyl benzoate	
+C04	DB00671	Cefixime	
+C22	DB09316	Thallous chloride	
+C2B	DB13269	Dichlorobenzyl alcohol	
+C2M	DB00205	Pyrimethamine	
+C2N	DB09316	Thallous chloride	
+C2U	DB00244	Mesalazine	
+C3D	DB06202	Lasofoxifene	
+C5F	DB09064	Ciprofibrate	
+C5U	DB01115	Nifedipine	
+C6F	DB12141	Gilteritinib	
+CAE	DB05382	Iodine	
+CBE	DB04657	Carboxin	
+CBU	DB13178	Inositol	
+CEL	DB00482	Celecoxib	
+CH8	DB13908	Amylmetacresol	
+CHB	DB00233	Aminosalicylic acid	
+CHL	DB09316	Thallous chloride	
+CIY	DB11285	Ethyl ferulate	
+CJZ	DB00939	Meclofenamic acid	
+CL0	DB09316	Thallous chloride	
+CL2	DB09316	Thallous chloride	
+CL6	DB00257	Clotrimazole	
+CL7	DB09316	Thallous chloride	
+CLA	DB09316	Thallous chloride	
+CLT	DB06819	Phenylbutyric acid	
+CNS	DB03796	Palmitic Acid	
+COX	DB00580	Valdecoxib	
+CP2	DB00556	Perflutren	
+CP6	DB00205	Pyrimethamine	
+CP7	DB00832	Phensuximide	
+CPF	DB00537	Ciprofloxacin	
+CQA	DB00613	Amodiaquine	
+CQL	DB04815	Clioquinol	
+CRT	DB05382	Iodine	
+CS2	DB03017	Lauric acid	
+CSR	DB01169	Arsenic trioxide	
+CTC	DB09316	Thallous chloride	
+CTV	DB14183	Geraniol	
+CVD	DB01136	Carvedilol	
+CWB	DB00889	Granisetron	
+CYZ	DB09353	Octasulfur	
+CZE	DB06282	Levocetirizine	
+CZX	DB00633	Dexmedetomidine	
+D0Q	DB13908	Amylmetacresol	
+D12	DB05382	Iodine	
+D1T	DB00632	Docosanol	
+D22	DB00915	Amantadine	
+D88	DB06616	Bosutinib	
+D8T	DB03017	Lauric acid	
+DA4	DB00259	Sulfanilamide	
+DAH	DB15480	Resorcinol monoacetate	
+DAS	DB03017	Lauric acid	
+DB8	DB06616	Bosutinib	
+DBE	DB00316	Acetaminophen	
+DCC	DB00632	Docosanol	
+DCL	DB00397	Phenylpropanolamine	
+DCN	DB05382	Iodine	
+DE1	DB00632	Docosanol	
+DE3	DB11282	Diethyltoluamide	
+DFE	DB00228	Enflurane	
+DFI	DB11092	Stannous fluoride	
+DGJ	DB05018	Migalastat	
+DGL	DB03017	Lauric acid	
+DGU	DB03017	Lauric acid	
+DHF	DB03017	Lauric acid	
+DHO	DB03017	Lauric acid	
+DHY	DB00316	Acetaminophen	
+DIF	DB00586	Diclofenac	
+DIL	DB05382	Iodine	
+DIN	DB12945	Dihydralazine	
+DIV	DB05382	Iodine	
+DIX	DB01616	Alverine	
+DK0	DB00397	Phenylpropanolamine	
+DKA	DB03017	Lauric acid	
+DMG	DB14191	Diphenylguanidine	
+DOP	DB09353	Octasulfur	
+DPO	DB05382	Iodine	
+DPW	DB09031	Miltefosine	
+DQZ	DB01009	Ketoprofen	
+DSF	DB01189	Desflurane	
+DSP	DB03017	Lauric acid	
+DUW	DB00120	Phenylalanine	
+DX2	DB00384	Triamterene	
+DX4	DB00352	Tioguanine	
+DXT	DB00254	Doxycycline	
+DXX	DB03193	Stearic acid	
+DYA	DB11092	Stannous fluoride	
+DZF	DB03017	Lauric acid	
+DZP	DB00829	Diazepam	
+E00	DB01718	Cetrimonium	
+E1Z	DB15536	Ferric chloride	
+E34	DB01086	Benzocaine	
+E35	DB13628	Ethyl hydroxybenzoate	
+E4B	DB13628	Ethyl hydroxybenzoate	
+E9P	DB13908	Amylmetacresol	
+EAC	DB01086	Benzocaine	
+EC0	DB04815	Clioquinol	
+EER	DB01197	Captopril	
+EF9	DB01197	Captopril	
+EFZ	DB00625	Efavirenz	
+EGR	DB13628	Ethyl hydroxybenzoate	
+EH6	DB09216	Tolfenamic acid	
+EHP	DB15480	Resorcinol monoacetate	
+EHR	DB00784	Mefenamic acid	
+EIV	DB00797	Tolazoline	
+EJY	DB00797	Tolazoline	
+EKZ	DB11254	Hexylresorcinol	
+ELA	DB03193	Stearic acid	
+ELD	DB04224	Oleic Acid	
+EO3	DB03017	Lauric acid	
+EOL	DB09086	Eugenol	
+ES4	DB09316	Thallous chloride	
+EUD	DB03017	Lauric acid	
+EUG	DB14188	Isoeugenol	
+EUH	DB00740	Riluzole	
+EVJ	DB00259	Sulfanilamide	
+EW8	DB03017	Lauric acid	
+EYK	DB11254	Hexylresorcinol	
+EZY	DB06704	Iobenguane	
+F01	DB00987	Cytarabine	
+F0F	DB08918	Levomilnacipran
+F1U	DB00193	Tramadol	
+F22	DB03756	Doconexent	
+F40	DB07776	Flavone	
+F5U	DB01065	Melatonin	
+F6C	DB09316	Thallous chloride	
+F7W	DB00556	Perflutren	
+F81	DB01428	Oxybenzone	
+F9G	DB01428	Oxybenzone	
+F9R	DB05382	Iodine	
+FA0	DB00233	Aminosalicylic acid	
+FAT	DB03796	Palmitic Acid	
+FB1	DB00259	Sulfanilamide	
+FBS	DB00259	Sulfanilamide	
+FBV	DB00259	Sulfanilamide	
+FBX	DB04953	Ezogabine	
+FBZ	DB06819	Phenylbutyric acid	
+FCI	DB15536	Ferric chloride	
+FDC	DB14487	Zinc acetate	
+FG7	DB01086	Benzocaine	
+FGZ	DB00244	Mesalazine	
+FHB	DB00233	Aminosalicylic acid	
+FIX	DB03017	Lauric acid	
+FKZ	DB00915	Amantadine	
+FL8	DB07776	Flavone	
+FLF	DB02266	Flufenamic acid	
+FLN	DB07776	Flavone	
+FLR	DB00712	Flurbiprofen	
+FMX	DB05382	Iodine	
+FN1	DB11092	Stannous fluoride	
+FPL	DB13908	Amylmetacresol	
+FPP	DB11348	Calcium Phosphate	
+FQ7	DB00784	Mefenamic acid	
+FSE	DB07776	Flavone	
+FSY	DB05382	Iodine	
+FT2	DB08604	Triclosan	
+FT8	DB09353	Octasulfur	
+FTR	DB00556	Perflutren	
+G2O	DB09316	Thallous chloride	
+G3C	DB00800	Fenoldopam	
+G4U	DB09494	Cetyl alcohol	
+G4X	DB09494	Cetyl alcohol	
+G6L	DB00413	Pramipexole	
+G8F	DB00259	Sulfanilamide	
+G8L	DB00259	Sulfanilamide	
+G9A	DB09555	Dexchlorpheniramine maleate	
+G9R	DB09316	Thallous chloride	
+GAE	DB03017	Lauric acid	
+GAW	DB09048	Netupitant	
+GBN	DB00996	Gabapentin	
+GCO	DB03017	Lauric acid	
+GCQ	DB11348	Calcium Phosphate	
+GCR	DB12091	Gadolinium	
+GD	DB12091	Gadolinium	
+GD3	DB12091	Gadolinium	
+GEY	DB06689	Ethanolamine oleate	
+GFN	DB01044	Gatifloxacin	
+GGT	DB15536	Ferric chloride	
+GHP	DB00135	Tyrosine	
+GIR	DB05382	Iodine	
+GJS	DB04272	Citric acid	
+GMJ	DB00502	Haloperidol	
+GNE	DB14191	Diphenylguanidine	
+GOG	DB04272	Citric acid	
+GOY	DB11584	Pipradrol	
+GPJ	DB05382	Iodine	
+GPP	DB11348	Calcium Phosphate	
+GVE	DB01086	Benzocaine	
+GVT	DB06811	Polidocanol	
+H00	DB06819	Phenylbutyric acid	
+H1Z	DB00259	Sulfanilamide	
+H33	DB00985	Dimenhydrinate	
+H35	DB11336	Kinetin	
+H3Z	DB00818	Propofol	
+HAA	DB00316	Acetaminophen	
+HD9	DB01280	Nelarabine	
+HDS	DB03796	Palmitic Acid	
+HF2	DB00120	Phenylalanine	
+HFB	DB12821	Perflubutane	
+HHY	DB00991	Oxaprozin	
+HKY	DB04840	Debrisoquine	
+HLT	DB01159	Halothane	
+HLZ	DB01275	Hydralazine	
+HMO	DB07776	Flavone	
+HNK	DB00184	Nicotine	
+HNL	DB00184	Nicotine	
+HNQ	DB09115	Diiodohydroxyquinoline	
+HO3	DB00258	Calcium acetate	
+HPC	DB00397	Phenylpropanolamine	
+HPE	DB09316	Thallous chloride	
+HPH	DB00120	Phenylalanine	
+HQK	DB05382	Iodine	
+HT4	DB13908	Amylmetacresol	
+HT7	DB00150	Tryptophan	
+HX3	DB13269	Dichlorobenzyl alcohol	
+HXT	DB14020	Benzoin	
+HXX	DB00233	Aminosalicylic acid	
+HYO	DB00424	Hyoscyamine	
+HZQ	DB01243	Chloroxine	
+I3M	DB13813	Iodoform	
+I59	DB14159	Oxidronic acid	
+I7A	DB01144	Diclofenamide	
+I7B	DB01144	Diclofenamide	
+I7T	DB13813	Iodoform	
+ID8	DB00784	Mefenamic acid	
+IGA	DB00352	Tioguanine	
+IHB	DB00233	Aminosalicylic acid	
+ILM	DB01086	Benzocaine	
+IMN	DB00328	Indomethacin
+IP0	DB00600	Monobenzone	
+IQL	DB00609	Ethionamide	
+IQQ	DB01399	Salsalate	
+IRH	DB05382	Iodine	
+IZP	DB09213	Dexibuprofen	
+J01	DB00766	Clavulanic acid	
+J0M	DB03017	Lauric acid	
+J0Z	DB00676	Benzyl benzoate	
+J69	DB09543	Methyl salicylate	
+JBF	DB05016	Ataluren	
+JBH	DB01243	Chloroxine	
+JBL	DB01609	Deferasirox	
+JC9	DB11823	Esketamine	
+JEY	DB01065	Melatonin	
+JMS	DB00939	Meclofenamic acid	
+JN3	DB03796	Palmitic Acid	
+JPM	DB08604	Triclosan	
+JQ8	DB06819	Phenylbutyric acid	
+JRY	DB03796	Palmitic Acid	
+JSX	DB01399	Salsalate	
+JWH	DB00945	Acetylsalicylic acid	
+JWY	DB14840	Ripretinib	
+JYD	DB14089	Dimercaptosuccinic acid	
+JZ2	DB11121	Chloroxylenol	
+K34	DB00730	Thiabendazole	
+K3D	DB00711	Diethylcarbamazine	
+K42	DB00600	Monobenzone	
+K4V	DB15480	Resorcinol monoacetate	
+K4Y	DB06821	Sulfameter	
+K7A	DB04272	Citric acid	
+K86	DB00559	Bosentan	
+KAH	DB00244	Mesalazine	
+KBZ	DB00259	Sulfanilamide	
+KC1	DB09316	Thallous chloride	
+KC2	DB09316	Thallous chloride	
+KHJ	DB11932	Abametapir	
+KNA	DB00548	Azelaic acid	
+KOV	DB01112	Cefuroxime	
+KTC	DB03193	Stearic acid	
+KTR	DB00465	Ketorolac	
+KUP	DB00440	Trimethoprim	
+KWB	DB11062	Octisalate	
+L3B	DB13853	Anethole trithione	
+L3S	DB13908	Amylmetacresol	
+L3V	DB00316	Acetaminophen	
+L4H	DB11071	Phenyl salicylate	
+L4K	DB00259	Sulfanilamide	
+L4Q	DB00259	Sulfanilamide	
+L4W	DB00259	Sulfanilamide	
+L5D	DB00945	Acetylsalicylic acid	
+LA7	DB00165	Pyridoxine	
+LAU	DB03017	Lauric acid	
+LBH	DB12091	Gadolinium	
+LCL	DB00446	Chloramphenicol	
+LCR	DB06282	Levocetirizine	
+LEV	DB09078	Lenvatinib	
+LFA	DB05382	Iodine	
+LIM	DB03193	Stearic acid	
+LL8	DB00461	Nabumetone	
+LLU	DB09214	Dexketoprofen	
+LLX	DB09355	Sulfabenzamide	
+LNA	DB14104	Linoleic acid	
+LNB	DB14104	Linoleic acid	
+LOQ	DB00832	Phensuximide	
+LPB	DB00166	Lipoic acid	
+LQZ	DB00281	Lidocaine	
+LR9	DB11282	Diethyltoluamide	
+LSQ	DB00573	Fenoprofen	
+LUR	DB01283	Lumiracoxib	
+LVD	DB01121	Phenacemide	
+LYL	DB01428	Oxybenzone	
+LZU	DB00679	Thioridazine
+M3H	DB00797	Tolazoline	
+M3S	DB00945	Acetylsalicylic acid	
+M3T	DB11254	Hexylresorcinol	
+M4S	DB00259	Sulfanilamide	
+M5A	DB00870	Suprofen	
+M5Y	DB13269	Dichlorobenzyl alcohol	
+MBR	DB13813	Iodoform	
+MEA	DB13970	Dioctyldimonium	
+MEM	DB00760	Meropenem	
+MEZ	DB09555	Dexchlorpheniramine maleate	
+MFK	DB00632	Docosanol	
+MHK	DB00259	Sulfanilamide	
+MHL	DB14212	Methylparaben	
+MHN	DB09494	Cetyl alcohol	
+MHO	DB09353	Octasulfur	
+MI1	DB08895	Tofacitinib	
+MIG	DB00491	Miglitol	
+MIY	DB01017	Minocycline	
+MJ5	DB13908	Amylmetacresol	
+MJT	DB00259	Sulfanilamide	
+ML1	DB01065	Melatonin	
+ML2	DB01065	Melatonin	
+MLT	DB05382	Iodine	
+MMS	DB05382	Iodine	
+MPU	DB05382	Iodine	
+MRW	DB01243	Chloroxine	
+MSR	DB09352	Hydroxyamphetamine	
+MV2	DB09357	Dexpanthenol	
+MWJ	DB11121	Chloroxylenol	
+MWM	DB11121	Chloroxylenol	
+MYA	DB09494	Cetyl alcohol	
+MYJ	DB13908	Amylmetacresol	
+MYS	DB05382	Iodine	
+MZG	DB11121	Chloroxylenol	
+N0Y	DB01428	Oxybenzone	
+N1M	DB11282	Diethyltoluamide	
+N2B	DB00676	Benzyl benzoate	
+N3M	DB00316	Acetaminophen	
+N4E	DB00316	Acetaminophen	
+N8C	DB09353	Octasulfur	
+N8R	DB05382	Iodine	
+N90	DB00568	Cinnarizine	
+N9J	DB14176	Benzylparaben	
+NBB	DB00259	Sulfanilamide	
+NBT	DB12821	Perflubutane	
+NBV	DB00419	Miglustat	
+NCT	DB00184	Nicotine	
+NDM	DB14191	Diphenylguanidine	
+NER	DB04224	Oleic Acid	
+NFL	DB02266	Flufenamic acid	
+NFX	DB06771	Besifloxacin	
+NIN	DB05382	Iodine	
+NIX	DB00548	Azelaic acid	
+NMM	DB11815	Tilarginine	
+NND	DB05018	Migalastat	
+NOY	DB05018	Migalastat	
+NOZ	DB05018	Migalastat	
+NPA	DB13218	Mandelic acid	
+NPB	DB06819	Phenylbutyric acid	
+NPS	DB00788	Naproxen	
+NPU	DB00397	Phenylpropanolamine	
+NPX	DB00788	Naproxen	
+NTI	DB00507	Nitazoxanide	
+NTY	DB00556	Perflutren	
+NZD	DB00711	Diethylcarbamazine	
+NZZ	DB14183	Geraniol	
+O0Y	DB00600	Monobenzone	
+O1D	DB00600	Monobenzone	
+O8N	DB00632	Docosanol	
+OAQ	DB01096	Oxamniquine	
+OC9	DB00632	Docosanol	
+OCB	DB09353	Octasulfur	
+OCD	DB09353	Octasulfur	
+OCT	DB05382	Iodine	
+ODD	DB14104	Linoleic acid	
+ODM	DB14183	Geraniol	
+ODT	DB00132	alpha-Linolenic acid	
+OHA	DB03796	Palmitic Acid	
+OHP	DB13218	Mandelic acid	
+OIN	DB00424	Hyoscyamine	
+OK7	DB00316	Acetaminophen	
+OKE	DB11299	Vanillyl butyl ether	
+OPB	DB03585	Oxyphenbutazone	
+OQR	DB01096	Oxamniquine	
+OSB	DB00676	Benzyl benzoate	
+OVP	DB01032	Probenecid	
+OW4	DB00945	Acetylsalicylic acid	
+OWH	DB00609	Ethionamide	
+P18	DB00397	Phenylpropanolamine	
+P1Z	DB00812	Phenylbutazone	
+P2E	DB00917	Dinoprostone	
+P31	DB12978	Pexidartinib	
+P77	DB00433	Prochlorperazine	
+P7I	DB14078	Medronic acid	
+P8K	DB04160	Pyrophosphoric acid	
+PA0	DB06715	Potassium Iodide	
+PAJ	DB00676	Benzyl benzoate	
+PAK	DB09316	Thallous chloride	
+PBC	DB06819	Phenylbutyric acid	
+PBN	DB06819	Phenylbutyric acid	
+PBX	DB11254	Hexylresorcinol	
+PCL	DB13987	Strontium chloride	
+PDH	DB00120	Phenylalanine	
+PDP	DB11348	Calcium Phosphate	
+PEJ	DB05382	Iodine	
+PEZ	DB04160	Pyrophosphoric acid	
+PGL	DB14078	Medronic acid	
+PHI	DB14191	Diphenylguanidine	
+PHQ	DB14176	Benzylparaben	
+PJ8	DB05382	Iodine	
+PJH	DB00609	Ethionamide	
+PL0	DB14191	Diphenylguanidine	
+PL3	DB09494	Cetyl alcohol	
+PMR	DB09316	Thallous chloride	
+PNV	DB00417	Phenoxymethylpenicillin	
+PNX	DB00806	Pentoxifylline	
+PON	DB11348	Calcium Phosphate	
+PPK	DB04160	Pyrophosphoric acid	
+PQ4	DB00135	Tyrosine	
+PQJ	DB00632	Docosanol	
+PRQ	DB00135	Tyrosine	
+PS9	DB09353	Octasulfur	
+PWF	DB11285	Ethyl ferulate	
+Q75	DB00150	Tryptophan	
+QKM	DB11633	Isavuconazole	
+QO7	DB11967	Binimetinib	
+QSB	DB00233	Aminosalicylic acid	
+QTD	DB00259	Sulfanilamide	
+QTU	DB01600	Tiaprofenic acid	
+QUE	DB07776	Flavone	
+QXB	DB05382	Iodine	
+QZP	DB00945	Acetylsalicylic acid	
+R12	DB00459	Acitretin	
+R16	DB09494	Cetyl alcohol	
+R2O	DB00575	Clonidine	
+R6G	DB05382	Iodine	
+R9S	DB00316	Acetaminophen	
+RAS	DB01367	Rasagiline	
+RDZ	DB00676	Benzyl benzoate	
+REL	DB03017	Lauric acid	
+RF8	DB03796	Palmitic Acid	
+RG4	DB08877	Ruxolitinib	
+RHN	DB11994	Diacerein	
+RHQ	DB05382	Iodine	
+RIV	DB06228	Rivaroxaban	
+ROF	DB01656	Roflumilast	
+RTP	DB11348	Calcium Phosphate	
+RTZ	DB00679	Thioridazine	
+RVP	DB11348	Calcium Phosphate	
+RXQ	DB08881	Vemurafenib	
+RXT	DB08877	Ruxolitinib	
+RZG	DB01086	Benzocaine	
+RZN	DB13269	Dichlorobenzyl alcohol	
+S0E	DB00740	Riluzole	
+S0W	DB00573	Fenoprofen	
+S6E	DB05382	Iodine	
+S6H	DB05382	Iodine	
+SCI	DB09316	Thallous chloride	
+SE2	DB07776	Flavone	
+SEM	DB00676	Benzyl benzoate	
+SFE	DB00120	Phenylalanine	
+SFY	DB00891	Sulfapyridine	
+SGI	DB00316	Acetaminophen	
+SLI	DB02546	Vorinostat	
+SMB	DB06819	Phenylbutyric acid	
+SN4	DB00609	Ethionamide	
+SR6	DB00632	Docosanol	
+SRE	DB01104	Sertraline	
+SRP	DB00676	Benzyl benzoate	
+SX1	DB00233	Aminosalicylic acid	
+SYN	DB00676	Benzyl benzoate	
+SYR	DB05382	Iodine	
+T1S	DB09185	Viloxazine	
+T27	DB08864	Rilpivirine	
+T4U	DB04871	Lorcaserin	
+T5G	DB00259	Sulfanilamide	
+T6P	DB11348	Calcium Phosphate	
+T9G	DB09352	Hydroxyamphetamine	
+T9V	DB00316	Acetaminophen	
+TA8	DB03017	Lauric acid	
+TAH	DB00945	Acetylsalicylic acid	
+TBY	DB11092	Stannous fluoride	
+TDA	DB03193	Stearic acid	
+TDP	DB11348	Calcium Phosphate	
+TE6	DB03193	Stearic acid	
+TF8	DB13180	Gluconic Acid	
+TFP	DB00831	Trifluoperazine	
+TGU	DB03193	Stearic acid	
+TH0	DB11254	Hexylresorcinol	
+TI7	DB00945	Acetylsalicylic acid	
+TIM	DB00373	Timolol	
+TKT	DB11699	Tropisetron	
+TLD	DB11254	Hexylresorcinol	
+TLF	DB09216	Tolfenamic acid	
+TMG	DB00730	Thiabendazole	
+TMI	DB04794	Bifonazole	
+TOP	DB15536	Ferric chloride	
+TPF	DB00196	Fluconazole	
+TPP	DB11348	Calcium Phosphate	
+TPS	DB11348	Calcium Phosphate	
+TQZ	DB00397	Phenylpropanolamine	
+TRY	DB00150	Tryptophan	
+TSM	DB00659	Acamprosate	
+TSN	DB15536	Ferric chloride	
+TWT	DB05382	Iodine	
+TYE	DB00610	Metaraminol	
+TYF	DB00135	Tyrosine	
+TYL	DB00316	Acetaminophen	
+TYW	DB00135	Tyrosine	
+TZZ	DB11348	Calcium Phosphate	
+U0V	DB01171	Moclobemide	
+U3J	DB11348	Calcium Phosphate	
+U6Z	DB00698	Nitrofurantoin	
+U7Y	DB12091	Gadolinium	
+UAJ	DB09316	Thallous chloride	
+UDP	DB11348	Calcium Phosphate	
+UEG	DB00165	Pyridoxine	
+UHG	DB00821	Carprofen	
+UKH	DB06819	Phenylbutyric acid	
+UN2	DB00233	Aminosalicylic acid	
+UR1	DB06795	Mafenide	
+URS	DB01121	Phenacemide	
+V4E	DB11348	Calcium Phosphate	
+V6S	DB01399	Salsalate	
+V7M	DB11121	Chloroxylenol	
+V8D	DB00292	Etomidate	
+V95	DB00643	Mebendazole	
+VFG	DB00819	Acetazolamide	
+VFJ	DB00819	Acetazolamide	
+VGH	DB08865	Crizotinib	
+VHS	DB08865	Crizotinib	
+VIA	DB00203	Sildenafil	
+VIB	DB00152	Thiamine	
+VL1	DB12091	Gadolinium	
+VPX	DB09030	Vorapaxar	
+VTG	DB13269	Dichlorobenzyl alcohol	
+VVM	DB06795	Mafenide	
+VX7	DB08820	Ivacaftor	
+W1P	DB01435	Antipyrine	
+WBP	DB00988	Dopamine	
+WCA	DB00632	Docosanol	
+WJ1	DB00120	Phenylalanine	
+WJ2	DB00120	Phenylalanine	
+WJD	DB13218	Mandelic acid	
+WL1	DB14212	Methylparaben	
+WOC	DB14089	Dimercaptosuccinic acid	
+WZY	DB00316	Acetaminophen	
+X0S	DB06795	Mafenide	
+X5A	DB00316	Acetaminophen	
+X90	DB03796	Palmitic Acid	
+X93	DB00519	Trandolapril	
+XB7	DB00637	Astemizole	
+XDE	DB00668	Epinephrine	
+XI7	DB06819	Phenylbutyric acid	
+XM0	DB00915	Amantadine	
+XOG	DB14183	Geraniol	
+XP1	DB00945	Acetylsalicylic acid	
+XPG	DB00770	Alprostadil	
+XRA	DB00457	Prazosin	
+XXC	DB06819	Phenylbutyric acid	
+XYD	DB14191	Diphenylguanidine	
+XZN	DB06616	Bosutinib	
+Y8G	DB09353	Octasulfur	
+Y8I	DB00818	Propofol	
+YF1	DB01043	Memantine	
+YG7	DB06684	Vilazodone	
+YGJ	DB00600	Monobenzone	
+YH7	DB00352	Tioguanine	
+YHA	DB09316	Thallous chloride	
+YHM	DB09353	Octasulfur	
+YI6	DB00573	Fenoprofen	
+YOF	DB00556	Perflutren	
+YP4	DB01012	Cinacalcet	
+YRL	DB09352	Hydroxyamphetamine	
+YTZ	DB06147	Sulfathiazole	
+YY3	DB09330	Osimertinib	
+Z07	DB00740	Riluzole	
+Z6X	DB03193	Stearic acid	
+ZAE	DB00830	Phenmetrazine	
+ZEX	DB00137	Lutein	
+ZGC	DB00573	Fenoprofen	
+ZHZ	DB00316	Acetaminophen	
+ZLD	DB00601	Linezolid	
+ZON	DB00909	Zonisamide	
+ZTN	DB00818	Propofol	
+ZXI	DB06704	Iobenguane	
+ZYC	DB11285	Ethyl ferulate	
+ZYX	DB06795	Mafenide	
+ZZ1	DB07776	Flavone	
+ZZ8	DB00945	Acetylsalicylic acid	
+RPB	DB12332	Rucaparib
+78P	DB07232	Veliparib
+09L	DB09074	Olaparib
+2YQ	DB11760	Talazoparib
+1UN	DB00220	Nelfinavir
+017	DB01264	Darunavir
+AB1	DB01601	Lopinavir
+478	DB00701	Amprenavir
+NVP	DB00238	Nevirapine
+NVE	DB00238	Nevirapine
+SPP	DB00705	Delavirdine
+ETV	DB00879	Emtricitabine
+ELV	DB09101	Elvitegravir
+3TC	DB00709	Lamivudine
+AZZ	DB00495	Zidovudine
+KLQ	DB11799	Bictegravir
+KS8	DB00492	Fosinopril
+X8Z	DB01197	Captopril
+LPR	DB00722	Lisinopril
+EAL	DB09477	Enalaprilat
+MXM	DB00814	Meloxicam
+ICD	DB08942	Isoxicam
+IBP	DB01050	Ibuprofen
+LNL	DB00132	Linolenic acid
+FLP	DB00712	Flurbiprofen
+T1N	DB00788	Naproxen DERIVATIVES
+PLM	DB03796	Palmitic Acid
+RCX	DB00533	Rofecoxib
+FL2	DB00712	Flurbiprofen
+92S	DB06077	Lumateperone
+GBM	DB01016	Glyburide
+GCZ	DB01120	Gliclazide
+JGQ	DB16200	Iptacopan
+STR	DB00396	Progesterone
+FFA	DB00624	Testosterone
+CJ2	DB02266	Flufenamic acid
+SUZ	DB00605	Sulindac
+IU5	DB01586	Ursodeoxycholic acid
+TES	DB00624	Testosterone
+TLT	DB00500	Tolmetin
+C9F	DB00343	Diltiazem
+SFI	DB00605	Sulindac
+FAD	DB03147	Flavin adenine dinucleotide
+X89	DB01110	Miconazole
+TMI	DB04794	Bifonazole
+ECN	DB01127	Econazole
+X2N	DB01263	Posaconazole
+FJQ	DB01007	Tioconazole
+YHM	DB01007	Tioconazole
+VOR	DB00582	Voriconazole
+VT1	DB13055	Oteseconazole
+ESL	DB04573	Estriol
+16A	DB01718	Cetrimonium
+5LY	DB00000	Difenoconazole
+5LX	DB00000	Difenoconazole
+5LW	DB00000	Difenoconazole
+5LZ	DB00000	Difenoconazole
+TBX	DB00000	Tebuconazole
+TBQ	DB00000	Tebuconazole
+1C6	DB00338	Omeprazole
+1YN	DB01167	Itraconazole
+PFN	DB00573	Fenoprofen
+TCL	DB08604	Triclosan
+P1B	DB01132	Pioglitazone
+BJX	DB00912	Repaglinide
+TLS	DB00966	Telmisartan
+HNI	DB01393	Bezafibrate
+GFV	DB01132	Pioglitazone
+AJA	DB00486	Nabilone
+REA	DB00755	Tretinoin
+OLA	DB04224	Oleic Acid
+BRL	DB00412	Rosiglitazone
+GD4	DB00197	Troglitazone
+9CR	DB00755	Tretinoin
+GW9	DB01241	Gemfibrozil
+IL2	DB01088	Iloprost
+C5F	DB09064	Ciprofibrate
+RGZ	DB00412	Rosiglitazone
+PEM	DB01393	Bezafibrate
+F5A	DB13873	Fenofibric acid
+HXA	DB03756	Doconexent
+TEP	DB00277	Theophylline
+2YQ	DB11760	Talazoparib
+TP0	DB00321	Amitriptyline
+LMP	DB00760	Meropenem
+HIW	DB01598	Imipenem
+8YF	DB01598	Imipenem
+3S0	DB01112	Cefuroxime
+0WO	DB00713	Oxacillin
+JXF	DB00417	Phenoxymethylpenicillin
+ZZ7	DB00415	Ampicillin
+PNK	DB01053	Benzylpenicillin
+KQ8	DB06211	Doripenem
+MCO	DB01197	Captopril
+ETS	DB00869	Dorzolamide
+AZM	DB00819	Acetazolamide
+D9Z	DB00000	chlorzolamide
+BZ1	DB01194	Brinzolamide
+SAL	DB00936	Salicylic acid
+CHD	DB02659	Cholic Acid
+FO9	DB00927	Famotidine
+TRU	DB01021	Trichlormethiazide
+OSP	DB08329	Sulthiame
+BZU	DB01194	Brinzolamide
+K4D	DB01195	Flecainide
+XHO	DB00243	Ranolazine
+QDN	DB00908	Quinidine
+OJ0	DB00297	Bupivacaine
+CLR	DB04540	Cholesterol
+LQO	DB06218	Lacosamide
+P0T	DB09061	cannabidiol
+SNP	DB00571	Propranolol
+PNN	DB01053	Benzylpenicillin
+SOX	DB01053	Benzylpenicillin
+PNK	DB01053	Benzylpenicillin

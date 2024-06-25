@@ -1,0 +1,45 @@
+# Find the crossover points in 3 modes (based on the contribution and 3 modes criteria)
+mode1: [12, 44, 70, 73, 74, 126, 195, 236]
+mode2: [1, 3, 4, 15, 31, 32, 34, 75, 137, 164, 196, 197, 199, 201, 203, 243]
+mode3: [30, 31, 34, 35, 63, 74, 75, 77, 107, 110, 111, 113, 115, 117, 119, 120, 126, 127, 140, 142, 143, 150, 168]
+
+# extende and include calcHinge residues
+mode1: [[11, 12], [43, 44], [69, 70], [72, 73, 74], [123], [125, 126], [194, 195, 196, 197], [232, 233, 234, 235, 236]]
+mode2: [[0, 1, 2, 3, 4, 6, 7], [14, 15], [30, 31, 32, 33, 34], [74, 75], [136, 137], [139], [163, 164], [195, 196, 197, 198, 199, 200, 201, 202, 203], [242, 243]]
+mode3: [[27], [29, 30, 31, 32, 33, 34, 35], [38], [62, 63], [66], [73, 74, 75, 76, 77], [106, 107], [109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121], [123], [125, 126, 127], [129], [139, 140, 141, 142, 143], [149, 150], [167, 168]]
+
+
+# merge regions if the regions have 1~2 residue gaps, do not merge if merged region length is less than 5 
+	mode1: [[11, 12], [43, 44], [69, 70, 72, 73, 74], [123], [125, 126], [194, 195, 196, 197], [232, 233, 234, 235, 236]]
+		do not merge [123], [125, 126] since the merged region length is less than 5.
+		merge [69, 70] and [72, 73, 74] since the merged region length us larger than 5.
+	mode2: [[0, 1, 2, 3, 4, 6, 7], [14, 15], [30, 31, 32, 33, 34], [74, 75], [136, 137], [139], [163, 164], [195, 196, 197, 198, 199, 200, 201, 202, 203], [242, 243]]
+		nothing change in this mode
+	mode3: [[27, 29, 30, 31, 32, 33, 34, 35, 38], [62, 63], [66], [73, 74, 75, 76, 77], [106, 107, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 123, 125, 126, 127, 129], [139, 140, 141, 142, 143], [149, 150], [167, 168]]
+
+# filtering criteria
+	1. if a region only have 1 residue, remove them
+		mode1: remove [123]
+		... 
+	2. if a region have 2 residues, leave them anyway
+		mode1: remain[11, 12], [43, 44], [125, 126] anyway
+		...
+	3. if a region have 3 residues, select the smallest crossover two residues
+		Select the crossover pairs to remian 2 residues
+	4. if a region have 4 residues, check the adjacent residues
+		mode 1: [194, 195, 196, 197]: 193: 0.01748922, 198:-0.02421957, opposite signes, remain that (to be updated)
+	5. if a region have 5 residues or more
+		mode2: [0, 1, 2, 3, 4, 6, 7]: [-0.01214584,  0.00631107,  0.00820466, -0.00900231,  0.00866778,0.02443245,  0.02095325,  0.00871546];
+		 	[30, 31, 32, 33, 34]: [-0.00274354,  0.00312463, -0.00245515, -0.00148558,  0.01683869]
+		mode3: 
+		a. find all crossover points in this region, remain the smallest crossover point pairs
+			mode2_1: [1, 2]: two crossover, crossover pairs [0, 1], [2, 3]. abs(0) > abs(1), remain 1 here; abs(2) < abs(3), remain 2, we have [1, 2] right now
+			mode2_2: [31, 32, 33, 34]: we gave [32, 33]
+		b. Suppose we have X residues as crossover points, we want remain int((N - X) / 4) extra smallest points as our candidates 
+			mode2_1: int((8 - 2) / 4) = 1, one more residue with third smallest value, which is 4, final list is [1, 2, 4]
+			mode2_2: int((5-2) / 4) = 0, no more reisdue included
+		
+	mode2 after filtering: [[1, 2, 4], [14, 15], [32, 33], [74, 75], [136, 137], [163, 164], [201, 202, 196], [242, 243]]
+
+remove first and last 5 residues as hinges
+	mode2: [[14, 15], [32, 33], [74, 75], [136, 137], [163, 164], [201, 202, 196]]

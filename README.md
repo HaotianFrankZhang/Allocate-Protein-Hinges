@@ -33,12 +33,12 @@ Build ensembles where the reference structure by default is the first item. You 
 ```python
 dali_ens = buildPDBEnsemble(ags, ref=calphas)
 ```
-Calculate Ensemble ENMs
+### Calculate Ensemble ENMs
 Perform calculations on the ensemble to get normal mode analysis using the Gaussian Network Model (GNM).
 ```python
 gnms = calcEnsembleENMs(dali_ens, model='GNM', trim='reduce', n_modes=None)
 ```
-Retrieve Eigenvalues and Eigenvectors
+### Retrieve Eigenvalues and Eigenvectors
 Extract eigenvalues and eigenvectors from the GNM analysis. Additionally, compute averages as needed.
 ```python
 eigVals = gnms.getEigvals()
@@ -46,5 +46,22 @@ averageEigVals = gnms.getEigvals()[0]
 eigVects = gnms.getEigvecs()
 averageEigVecs = mean(eigVects, axis=0)
 ```
+### How many modes are needed to reach 33% contribution based on the Eigenvalues.
+You can change the contribution threshold by changing the second parameter
+```python
+currNumModes = getModesGivenThreshold(averageEigVals, 0.33)
+```
+### Allocate hinges from GNM modes.
+You need average Eigenvectors. You can change the number of modes by changing the second parameter. You can decrease the third parameter to adjust the band to include more residues as hinges.
+```python
+Hinge_index = getHinges2(averageEigVecs, 3, 15)
+```
 
-
+### Calculate p values.
+```python
+p_value = ORA(M, N, n, k)
+```
+totalLength = N <br>
+binding = M <br>
+hinge = n <br>
+overlap = k <br>

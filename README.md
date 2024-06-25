@@ -58,10 +58,18 @@ Hinge_index = getHinges2(averageEigVecs, 3, 15)
 ```
 
 ### Calculate p values.
+N: total number of residues in your protein <br>
+M: # of drug binding residues <br>
+n: # of hinge residues <br>
+k: overlaps 
 ```python
 p_value = ORA(M, N, n, k)
 ```
-totalLength = N <br>
-binding = M <br>
-hinge = n <br>
-overlap = k <br>
+
+### Plot graphs
+You need the mode you want to plot, average Eigenvectors, gnms, binding sites. If you want to mark other sites you are interested in, you can file the index in the last parameter
+```python
+modes = 0 # plot first mode
+plotSingleGraph(modes, averageEigVecs, gnms, binding, [])
+```
+

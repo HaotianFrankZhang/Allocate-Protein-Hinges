@@ -140,7 +140,6 @@ To plot the final graphs, you need the mode you want to plot, average Eigenvecto
 modes = 0 # plot first mode
 plotSingleGraph(modes, averageEigVecs, gnms, binding, [])
 ```
-
 In the program, many functions have been implemented in prody pacakges. To check the details of those functions, please visit the prody website to explore more: http://www.bahargroup.org/prody/
 
 # Raw data

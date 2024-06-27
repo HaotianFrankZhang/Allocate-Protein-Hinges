@@ -132,7 +132,7 @@ print ('# of binding sites is', len(binding))
 print ('# of hinge sites for threshold 0.33, overlap, hyper score', len(Hinges_3modes_final), overlaps_2, HyperScore_2)
 ```
 
-### Other functions
+### Other functions and more details
 You can find other functions in "Allocate-Protein-HInges.ipynb". For the details of each case (including results for both similar and diverse ensemble), you can find jupyter notebook files in 20 folders named by the protein acronyms.
 
 To plot the final graphs, you need the mode you want to plot, average Eigenvectors, gnms, binding sites. If you want to mark other sites you are interested in, you can file the index in the last parameter
@@ -140,6 +140,8 @@ To plot the final graphs, you need the mode you want to plot, average Eigenvecto
 modes = 0 # plot first mode
 plotSingleGraph(modes, averageEigVecs, gnms, binding, [])
 ```
+
+In the program, many functions have been implemented in prody pacakges. To check the details of those functions, please visit the prody website to explore more: http://www.bahargroup.org/prody/
 
 # Raw data
 Within each of the 20 folders, there is a subfolder named "Data" that contains several key files: the ensemble ID list, Dali search results, and information on binding sites. It is important to note that the results from Dali searches may vary over time since the Protein Data Bank (PDB) database is continually updated. To ensure consistency in your data, it is essential to maintain records of the ensemble lists and the corresponding chain IDs.

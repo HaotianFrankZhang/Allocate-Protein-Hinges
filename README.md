@@ -18,8 +18,8 @@ conda env create -f environment.yml -n hinges
 conda activate hinges
 ```
 
-# Program details and methods 
-## implement pacakges
+# Program details and methods (See Work_flow.ipynb)
+### implement pacakges
 The GNMhinges.py are in the folder, make sure it exists in the same directory when you running the program
 ```python
 from numpy import *
@@ -29,9 +29,6 @@ from scipy.stats import hypergeom
 import os
 from GNMhinges import *
 ```
-
-# Code explanation
-
 
 ### Build ensemble by query Dali
 Suppose you are interested in B2AR (PDB: 3d4s chain A)
@@ -105,7 +102,7 @@ bindings = [27,38,41,42,45,48,49,52,53,76,77,78,80,81,82,83,85,86,119,122,123,12
 ```
 Make sure all indeces are integers
 ```python
-binding = [int(x) for x in bindings]
+binding = list(set([int(x) for x in bindings]))
 ```
 
 ### Calculate p values.
@@ -144,6 +141,8 @@ modes = 0 # plot first mode
 plotSingleGraph(modes, averageEigVecs, gnms, binding, [])
 ```
 
-### Raw data
-In 20 folders, you can find a folder named "Data", it includes the ensemble id list, dali results, and binding sites. Please be aware that every time you query Dali, the ensemble results can be changed because PDB database is always updating. To fix your ensembles, you need to record the list and chain IDs. In the main folder, there is a file named "drug_letters_screen.txt". It contains 1,018 approved drug IDs.
+# Raw data
+Within each of the 20 folders, there is a subfolder named "Data" that contains several key files: the ensemble ID list, Dali search results, and information on binding sites. It is important to note that the results from Dali searches may vary over time since the Protein Data Bank (PDB) database is continually updated. To ensure consistency in your data, it is essential to maintain records of the ensemble lists and the corresponding chain IDs.
+
+Additionally, located in the main folder, you will find a file called "drug_letters_screen.txt". This file comprises a list of 1,018 approved drug IDs, providing a comprehensive resource for further analysis.
 

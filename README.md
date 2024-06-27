@@ -20,7 +20,7 @@ conda activate hinges
 
 # Program details and methods (See Work_flow.ipynb)
 ### implement pacakges
-The GNMhinges.py are in the folder, make sure it exists in the same directory when you running the program
+To import all functions, you need to download the "GNMhinges.py" in the main folder. Please make sure it exists in the same directory when you running the program
 ```python
 from numpy import *
 from prody import *
